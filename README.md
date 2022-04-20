@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there. I'm Kevin. 👋
 - 🌱 I’m currently learning C++ and JAVA (Maybe in the future.).
 - 📫 How to reach me: https://twitter.com/skwdpy
 - My favourite game is Minecraft.
--
+
 
 ### {Maintaining updating...}
 <!--
