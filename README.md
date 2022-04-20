@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning C++ and JAVA (Maybe in the future.).
 - 📫 How to reach me: https://twitter.com/skwdpy
 - My favourite game is Minecraft.
+-
+
+### {Maintaining updating...}
 <!--
 **skwdpy/skwdpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
