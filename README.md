@@ -4,7 +4,7 @@
 - My favourite game is Minecraft.
 
 
-### {Maintaining updating...}
+### {Maintaining updated...}
 <!--
 **skwdpy/skwdpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
