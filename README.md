@@ -1,5 +1,5 @@
 ### Hi there. I'm Kevin. 👋
-- 🌱 I’m currently learning C++, Python and JAVA (Maybe in the future.).
+- 🌱 I can program in C/C++ (including C51) and Python. In the future, I plan to learn assembly language and Java.
 - 📫 How to reach me: https://twitter.com/skwdpy
 - My favourite game is Minecraft.
 
